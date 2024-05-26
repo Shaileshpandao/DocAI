@@ -1,5 +1,5 @@
 # DocAI
-DocAi helps user to know the the diseases based on 
+DocAi helps user to Predict the the diseases based on 
 the symptons they are facing..
 
 Users Simply have to input 
